@@ -1,1 +1,1 @@
-# quantum computing files 
+quantum computing and physics-inspired ML files 
